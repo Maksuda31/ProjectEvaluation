@@ -24,7 +24,7 @@ import Utilities.ExcelData;
 
 public class AppTest 
 {
-	WebDriver driver;
+	WebDriver driver;//
 	String []data= new String[3];// for excel data
 	
 
